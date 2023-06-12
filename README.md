@@ -1,4 +1,6 @@
-👋 <b> Hello and welcome, 👋 My name is Daniel ! </b> <img src="https://www.codewars.com/users/AurDaniel/badges/micro" align="right" data-canonical-src="https://www.codewars.com/users/AurDaniel/badges/micro" style="max-width: 100%;">
+👋 <b> Hello and welcome, 👋 My name is Daniel ! </b> <a href="https://www.codewars.com/users/AurDaniel">
+<img src="https://www.codewars.com/users/AurDaniel/badges/micro" align="right">
+</a>
 --------------
 - 🇷🇺 I live in Moscow, Russia
 - 🎓 I'm a iOS Software Developer Student { <a href="https://practicum.yandex.ru">Yandex Practicum</a> }
